@@ -11114,7 +11114,7 @@ body {
 .about-section {
   padding-top: 10rem;
   background: linear-gradient(to bottom, #000 0%,
-  rgba(0, 0, 0, 0.85) 60%,
+  rgba(0, 0, 0, 1.0) 45%,
   rgba(7, 34, 64, 1.0) 100%);
 }
 
